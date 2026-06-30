@@ -23,7 +23,7 @@ else
 	read -p "Are you sure you want to lock the user? (y/n)" LOCK
 	if [ "$LOCK" = "y" ]; then
 		passwd -l "$UNAME"
-		echo "$UNAME Account locked successfully"
+		echo "✅ $UNAME Account locked successfully"
 		exit 0
 	else
 		echo "Cancelled"
