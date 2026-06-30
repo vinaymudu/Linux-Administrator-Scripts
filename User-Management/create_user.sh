@@ -7,6 +7,11 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 read -p "Enter the username you want to create: " UNAME
+if id "$UNAME" &>/dev/null; then
+    echo "User already exists"
+    exit 0
+fi
+
 useradd -m $UNAME
 passwd $UNAME
 echo "✅ User $UNAME created successfully!"
