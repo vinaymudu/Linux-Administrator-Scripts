@@ -20,7 +20,7 @@ if getent group "$GNAME" &>/dev/null; then
     echo "Group exists"
 else
     echo "Group does not exist"
-    read -p "If you want to create group please select (y/n): " CGNAME
+    read -p "If you want to create group please select (y/n): " CGNAME #Create Group Name
     if [ "$CGNAME" = "y" ]; then
         groupadd "$GNAME"
         echo "Group added successfully"
