@@ -31,6 +31,18 @@ removing users, checking accounts, locking access, and more.
 - How to check if a user exists using id
 - How to ask for confirmation before a risky action
 - How to delete a user using userdel
+- How to filter real users from system users using UID with awk
+- How to check if a group exists using getent and create it if missing
+- How to add a user to a group using usermod -aG
+- How to check account lock status using passwd -S
+- How to lock a user account using passwd -l
+- How to unlock a user account using passwd -u
+- How to reset a user's password using passwd with confirmation
+- How to build a simple reusable script that checks if a user exists
+- How to read a file line by line and loop through usernames using while read
+- How to set a temporary password and force a password change using chpasswd and passwd -e
+- How to check user login history using the last command
+- How to handle empty command output using -z in bash
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
