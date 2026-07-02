@@ -12,3 +12,5 @@ Built hands-on as part of my DevOps engineering journey.
 ## What I Learned So Far
 - How to check if a file or folder exists using -e
 - How to display permissions using stat with custom format
+- How to validate input format using regex with =~
+- How to safely change file permissions using chmod with confirmation
