@@ -18,6 +18,9 @@ Built hands-on as part of my DevOps engineering journey.
 - How to display permissions using stat with custom format
 - How to validate input format using regex with =~
 - How to safely change file permissions using chmod with confirmation
+- How to save custom formatted output using find -printf
+- How to write command output directly into a file using >
+- How to count lines directly from a file using wc -l
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
