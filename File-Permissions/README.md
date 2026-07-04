@@ -21,6 +21,8 @@ Built hands-on as part of my DevOps engineering journey.
 - How to save custom formatted output using find -printf
 - How to write command output directly into a file using >
 - How to count lines directly from a file using wc -l
+- How to read two values from one line using while read with two variable names
+- How to restore permissions from a backup file using chmod in a loop
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
