@@ -17,6 +17,8 @@ Built hands-on as part of my DevOps engineering journey.
 - How to generate an SSH key pair using ssh-keygen
 - How to check if a key already exists before creating a new one
 - The difference between a public key and a private key
+- How to copy a public key to a remote server using ssh-copy-id
+- How to check if a command succeeded using $?
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
