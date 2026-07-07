@@ -19,6 +19,10 @@ Built hands-on as part of my DevOps engineering journey.
 - The difference between a public key and a private key
 - How to copy a public key to a remote server using ssh-copy-id
 - How to check if a command succeeded using $?
+- How to edit SSH config safely using sed with backup and rollback
+- How to restart services and verify success using systemctl and $?
+- How commented-out config lines need special regex handling
+- How to test SSH hardening safely across two real machines
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
