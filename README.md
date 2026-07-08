@@ -4,7 +4,7 @@
 |--------|--------|
 | User-Management | ✅ Done |
 | File-Permissions | ✅ Done |
-| SSH | 🔄 In Progress |
+| SSH | ✅ Done |
 | Apache | ⏳ Coming Soon |
 | Nginx | ⏳ Coming Soon |
 | Cron-Jobs | ⏳ Coming Soon |
