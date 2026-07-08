@@ -23,6 +23,8 @@ Built hands-on as part of my DevOps engineering journey.
 - How to restart services and verify success using systemctl and $?
 - How commented-out config lines need special regex handling
 - How to test SSH hardening safely across two real machines
+- How to detect different service names across Linux distributions using systemctl list-units
+- How to check service status using systemctl is-active and systemctl status
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
