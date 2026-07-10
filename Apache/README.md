@@ -17,6 +17,7 @@ Built hands-on as part of my DevOps engineering journey.
 - How to detect the package manager (apt vs yum) to write distro-portable scripts
 - How to install and enable a service in one line using systemctl enable --now
 - How to verify a service is running using systemctl is-active --quiet
+- How checking process names with ss -p requires root, and how to check by port number instead
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
