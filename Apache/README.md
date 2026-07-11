@@ -18,6 +18,8 @@ Built hands-on as part of my DevOps engineering journey.
 - How to install and enable a service in one line using systemctl enable --now
 - How to verify a service is running using systemctl is-active --quiet
 - How checking process names with ss -p requires root, and how to check by port number instead
+- How to write multi-line config files using heredoc (cat << EOF)
+- How to escape variables in heredoc using backslash so Apache reads them literally
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
