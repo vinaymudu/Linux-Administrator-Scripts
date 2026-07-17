@@ -23,6 +23,6 @@ Built hands-on as part of my DevOps engineering journey.
 - How to enable/disable Apache sites using a2ensite/a2dissite on Debian systems
 - How CentOS handles site toggling differently by renaming config files
 - How to reload a service to apply config changes without a full restart
-
+- How to compress an entire folder into a backup archive using tar -czf
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
