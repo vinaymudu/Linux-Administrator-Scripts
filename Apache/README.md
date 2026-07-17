@@ -20,6 +20,9 @@ Built hands-on as part of my DevOps engineering journey.
 - How checking process names with ss -p requires root, and how to check by port number instead
 - How to write multi-line config files using heredoc (cat << EOF)
 - How to escape variables in heredoc using backslash so Apache reads them literally
+- How to enable/disable Apache sites using a2ensite/a2dissite on Debian systems
+- How CentOS handles site toggling differently by renaming config files
+- How to reload a service to apply config changes without a full restart
 
 ## Goal
 Becoming a DevOps Engineer — building real skills, one script at a time.
