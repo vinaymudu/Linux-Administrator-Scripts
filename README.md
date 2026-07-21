@@ -5,10 +5,10 @@
 | User-Management | ✅ Done |
 | File-Permissions | ✅ Done |
 | SSH | ✅ Done |
-| Apache | ⏳ Coming Soon |
-| Nginx | ⏳ Coming Soon |
-| Cron-Jobs | ⏳ Coming Soon |
-| Firewall | ⏳ Coming Soon |
+| Apache | ✅ Done |
+| Nginx | ✅ Done |
+| Cron-Jobs | ✅ Done |
+| Firewall | 🔄 In Progress |
 | Networking | ⏳ Coming Soon |
 | Storage-LVM | ⏳ Coming Soon |
 | Process-Management | ⏳ Coming Soon |
